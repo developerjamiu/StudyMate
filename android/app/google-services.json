@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506758692988",
+    "project_id": "study-mate-261ad",
+    "storage_bucket": "study-mate-261ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506758692988:android:8e9b3b49679979492849f9",
+        "android_client_info": {
+          "package_name": "com.developerjamiu.study_mate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506758692988-pdgoavbsfslq8186mv9ej28n9j42qotq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiH0MkOjCKwV2YH19D9YqYDomr5GrbBMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506758692988-pdgoavbsfslq8186mv9ej28n9j42qotq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
